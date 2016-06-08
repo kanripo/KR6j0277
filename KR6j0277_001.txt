@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:11.393748
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 十一面神呪心經
 #+PROPERTY: CBETA_ID T20n1071
 #+PROPERTY: ID KR6j0277
